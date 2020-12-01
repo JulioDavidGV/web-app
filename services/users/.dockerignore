@@ -1,0 +1,6 @@
+3.6.9
+.dockerignore 
+Dockerfile 
+Dockerfile-prod
+htmlcov
+migrations

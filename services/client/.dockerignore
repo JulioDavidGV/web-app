@@ -1,0 +1,8 @@
+node_modules
+coverage
+build
+3.6.9
+htmlcov
+.dockerignore
+Dockerfile
+Dockerfile-prod
