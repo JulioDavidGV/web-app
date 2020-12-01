@@ -7,10 +7,15 @@ import UsersList from '../UsersList';
 const users = [
   {
     'active': true,
-    'email': 'juliogranados@gmail.com',
+    'email': 'julio@gmail.com',
     'id': 1,
-    'username': 'julio',
-    'password': '123'
+    'username': 'julio'
+  },
+  {
+    'active': true,
+    'email': 'david@gmail.com',
+    'id': 2,
+    'username': 'david'
   }
 ];
 
