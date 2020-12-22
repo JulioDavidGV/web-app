@@ -1,0 +1,4 @@
+Collecting setuptools
+  Downloading https://files.pythonhosted.org/packages/6e/77/e921ae5c370698762cf645797f42e6d4d7e679f705a8a9697234591808aa/setuptools-51.1.0.post20201221-py3-none-any.whl (2.0MB)
+Installing collected packages: setuptools
+Successfully installed setuptools-51.1.0.post20201221

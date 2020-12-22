@@ -1,4 +1,4 @@
-3.6.9
+env
 .dockerignore 
 Dockerfile 
 Dockerfile-prod
